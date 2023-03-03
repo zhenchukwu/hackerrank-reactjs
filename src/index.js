@@ -32,3 +32,4 @@ registerServiceWorker();
 
 applyPolyfills().then(() => {
     defineCustomElements(window);
+})
